@@ -5,7 +5,7 @@ This is a tiny dataset on VegeFruits.<br>
 We have the following two annotated dataset for object detection:<br>
 <br>
 ・<a href="./VegeFruitsYOLO">VegeFruitsYOLO</a> <br>
-・<a href="./VegeFruitsTFRecord">VegeFruitsTFRecord </a> <br>
+・<a href="./VegeFruitsTFrecord">VegeFruitsTFRecord </a> <br>
 <br>
 
 The dataset contains following classes.<br>
